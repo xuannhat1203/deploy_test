@@ -1,0 +1,6 @@
+# Build
+# /build/      ← comment dòng này lại
+/target/
+.gradle/
+*.class
+*.war
